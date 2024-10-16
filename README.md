@@ -1,4 +1,3 @@
-# Projektna naloga pri predmetu Uvod v programiranje
-
-# SVETOVNA LESTVIA FIFA
-# AVTOR: Urh Videčnik
+# SVETOVNA LESTVICA FIFA
+**AVTOR:** Urh Videčnik
+To je moj **projekt** pri predmetu **UVP**!
