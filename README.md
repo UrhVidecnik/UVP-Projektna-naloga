@@ -21,3 +21,6 @@ Končni izdelek moje projektne naloge si lahko uporabnik ogleda tako, da prepros
 
 Če bi želel uporabnik sam zagnati program, oziroma osvežiti aktualne podatke, mora enostavno zagnati datoteko **glavna_koda.py**. Ta datoteka bo najprej s spletne strani [Transfermarkt.com](https://www.transfermarkt.com/) prenesla 9 html datotek, jih nato skupaj združila v eno html datoteko in na koncu vse skupaj zapisala v CSV datoteko.
 Nazadnje pa mora pognati še datoteko analiza.ipynb, da se osvežijo aktualni podatki na grafih in v izračunih.
+
+# Analiza podatkov
+Analiza je sestavljena iz 2 delov. V prvem delu je narejena analiza, kjer se primerja najboljšo in najsalbšo reprezentanco na lestvici z reprezentanco Slovenije. V drugem delu pa gre za analizo celotne lestvice.
